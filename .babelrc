@@ -1,0 +1,31 @@
+{
+  "presets": [
+    "babel-preset-react-native-stage-0/decorator-support"],
+  "plugins": [
+    "transform-decorators-legacy",
+    ["auto-import", {
+      "declarations": [
+        {"default": "React", "members": ["Component"], "path": "react"},
+        {"members": ["connect"], "path": "react-redux"},
+        {"members": [
+          "Platform",
+          "Dimensions",
+          "StyleSheet",
+          "View",
+          "ScrollView",
+          "Text",
+          "FlatList",
+          "TouchableOpacity",
+          "Image"
+        ], "path": "react-native"}
+      ]
+    }]
+  ],
+  "env": {
+    "development": {
+      "plugins": [
+        "transform-react-jsx-source"
+      ]
+    }
+  }
+}

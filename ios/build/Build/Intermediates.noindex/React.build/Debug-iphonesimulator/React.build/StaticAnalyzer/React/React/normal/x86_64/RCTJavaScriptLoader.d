@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTPerformanceLogger.h

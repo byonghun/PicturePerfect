@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/RCTWrapperViewController.m \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/optimis/code/challenges/PicturePerfect/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/optimis/code/challenges/PicturePerfect/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h
